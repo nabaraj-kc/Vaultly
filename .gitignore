@@ -1,0 +1,17 @@
+# Flutter Frontend
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.packages
+frontend/build/
+frontend/*.apk
+
+# Backend & Python
+backend/__pycache__/
+backend/.venv/
+backend/.env
+backend/*.db
+
+# System
+.DS_Store
+.idea/
+.vscode/

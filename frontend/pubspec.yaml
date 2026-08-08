@@ -1,0 +1,27 @@
+name: vaultly
+description: "AI-Powered Hybrid File Intelligence Platform"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  file_picker: ^6.1.1
+  http: ^1.2.0
+  flutter_markdown: ^0.6.19
+  share_plus: ^7.2.1
+  path_provider: ^2.1.2
+  mime: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
